@@ -1,8 +1,8 @@
+npm install
 # file-upload
 
 ## Project setup
 ```
-npm install
 ```
 
 ### Compiles and hot-reloads for development
@@ -27,3 +27,9 @@ npm run lint
 
 ### Customize configuration
 See [Configuration Reference](https://cli.vuejs.org/config/).
+
+
+## About
+
+This is a simple starter app that allow the user to upload an excel sheet, 
+parse and retrieve all the data in a sheet.
